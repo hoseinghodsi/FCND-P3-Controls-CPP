@@ -1,0 +1,4 @@
+﻿  0 File(s) copied
+  QuadControl.cpp
+d:\mydrive\autonomousflight\fcnd-controls-cpp\src\quadcontrol.cpp(208): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  Simulator.vcxproj -> D:\myDrive\AutonomousFlight\FCND-Controls-CPP\project\x64\Debug\Simulator.exe
