@@ -87,6 +87,8 @@ Thus, a new tune-up for most of the parameters were required. and surprising, af
 
 ### Scenario 5: Tracking trajectories
 
+Here it can be seen that the drone controller and the tuned parameters are capable of navigating a complex path as in scenario 5. 
+
 ![Scenario 5](./gifs/Scenario_5.gif)
 
 <img src="./Images/Scenario5.jpg" width="600">
